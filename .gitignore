@@ -19,7 +19,7 @@ project/plugins/project/
 .worksheet
 
 # Intellij IDEA specific
-.idea/*
+#.idea/*
 
 # Local copies of unencrypted credentials!
 local.*

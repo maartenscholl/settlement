@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="com.opengamma:opensimm:1.0" type="repository">
+    <properties maven-id="com.opengamma:opensimm:1.0" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/opensimm-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/lib/opensimm-1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/opensimm-1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
