@@ -11,9 +11,19 @@
     </CLASSES>
     <JAVADOC>
       <root url="jar://$PROJECT_DIR$/lib/akka-persistence_2.12-2.5.4-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/scala-library-2.12.2-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/akka-actor_2.12-2.5.4-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/config-1.3.1-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/scala-java8-compat_2.12-0.8.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/akka-protobuf_2.12-2.5.4-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
       <root url="jar://$PROJECT_DIR$/lib/akka-persistence_2.12-2.5.4-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/scala-library-2.12.2-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/akka-actor_2.12-2.5.4-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/config-1.3.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/scala-java8-compat_2.12-0.8.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/akka-protobuf_2.12-2.5.4-sources.jar!/" />
     </SOURCES>
   </library>
 </component>
